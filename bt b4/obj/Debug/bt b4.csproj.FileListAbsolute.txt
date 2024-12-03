@@ -1,0 +1,11 @@
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\bin\Debug\bt b4.exe.config
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\bin\Debug\bt b4.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\bin\Debug\bt b4.pdb
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt b4.csproj.AssemblyReference.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt_b4.Form1.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt_b4.Form2.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt_b4.Properties.Resources.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt b4.csproj.GenerateResource.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt b4.csproj.CoreCompileInputs.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt b4.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b4\bt b4\obj\Debug\bt b4.pdb
